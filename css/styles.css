@@ -417,6 +417,8 @@ p { max-width: 68ch; }
 }
 .callout h2 { color: var(--navy); }
 .callout p { color: rgba(27,34,48,0.82); margin-inline: auto; }
+.callout .eyebrow { color: #fdf8ee; }
+.callout .eyebrow::before, .callout .eyebrow::after { background: #fdf8ee; opacity: 0.75; }
 .callout .btn--dark { box-shadow: var(--shadow-md); }
 
 /* ---------- Footer ---------- */
