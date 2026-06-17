@@ -70,7 +70,7 @@ A few things are best confirmed by the pub before publishing — they were uncer
 
 - [ ] **Plated Sunday roast photo** — the Home page "Proper pub food" section has a placeholder waiting for a photo of a roast served on a plate. Save it as `images/sunday-roast.jpg` and swap the `.slot` div for an `<img>` (see "Adding real photos" above).
 - [ ] **Opening &amp; kitchen hours** — the times shown are a reasonable guide; confirm the real bar and food-service hours.
-- [ ] **Email address** — `info@thechandosarms.co.uk` is a placeholder. Set the real address (search/replace `info@thechandosarms.co.uk`).
+- [ ] **Domain &amp; email** — the site uses `enquiries@thechandoswestonturville.co.uk`. Point the new domain `thechandoswestonturville.co.uk` at the host (DNS) and set up that mailbox so the email works.
 - [ ] **Menu &amp; prices** — verified items: the Monday £10 specials, the pizzas and the Sunday roast. Other dishes are a representative sample; confirm the current menu and add prices if wanted.
 - [ ] **Events** — confirm the quiz night day/time and any regular live-music schedule.
 - [ ] **Image rights** — the exterior hero shot is watermarked "EDK Photography". Get permission/a licensed copy, or replace it with your own photo of the pub.
@@ -85,4 +85,4 @@ This is a static site, so it's free and easy to host:
 - **GitHub Pages** — push to a repo and enable Pages.
 - **Cloudflare Pages** — similar drag-and-drop / Git flow.
 
-Point your domain (e.g. `thechandosarms.co.uk`) at whichever you choose.
+Point your domain (`thechandoswestonturville.co.uk`) at whichever you choose.
