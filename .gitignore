@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Local editor / preview config
+.claude/
+
+# Raw saved Facebook export — kept locally for reference, not published
+images/_source/

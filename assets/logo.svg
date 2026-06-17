@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 150" role="img" aria-label="The Chandos Arms crest, established 1842">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ddac4a"/>
+      <stop offset="0.5" stop-color="#c0871f"/>
+      <stop offset="1" stop-color="#946312"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#gold)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <!-- Shield -->
+    <path d="M16,16 H104 V66 C104,104 82,128 60,140 C38,128 16,104 16,66 Z"/>
+    <!-- Inner keyline -->
+    <path d="M24,24 H96 V65 C96,98 77,119 60,130 C43,119 24,98 24,65 Z" stroke-width="1.4" opacity="0.7"/>
+  </g>
+  <!-- Chevron -->
+  <path d="M28,70 L60,46 L92,70 L92,80 L60,56 L28,80 Z" fill="url(#gold)"/>
+  <!-- Three stars above the chevron -->
+  <g fill="url(#gold)">
+    <path d="M60,24 l1.9,4 4.4,0.6 -3.2,3.1 0.8,4.4 -3.9,-2.1 -3.9,2.1 0.8,-4.4 -3.2,-3.1 4.4,-0.6 z"/>
+    <path d="M38,34 l1.5,3.1 3.4,0.5 -2.5,2.4 0.6,3.4 -3,-1.6 -3,1.6 0.6,-3.4 -2.5,-2.4 3.4,-0.5 z"/>
+    <path d="M82,34 l1.5,3.1 3.4,0.5 -2.5,2.4 0.6,3.4 -3,-1.6 -3,1.6 0.6,-3.4 -2.5,-2.4 3.4,-0.5 z"/>
+  </g>
+  <!-- Foaming tankard -->
+  <g fill="none" stroke="url(#gold)" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round">
+    <!-- foam -->
+    <path d="M46,90 q-1,-7 5,-6 q1,-6 8,-4 q3,-5 9,-1 q6,-1 6,5 q5,1 3,6 z" fill="url(#gold)" stroke="none"/>
+    <!-- mug body -->
+    <path d="M47,92 L73,92 L71,118 Q60,121 49,118 Z"/>
+    <!-- handle -->
+    <path d="M73,96 q9,1 8,9 q-1,7 -8,7"/>
+    <!-- staves -->
+    <path d="M55,94 L54,117" stroke-width="1.4" opacity="0.7"/>
+    <path d="M65,94 L65,118" stroke-width="1.4" opacity="0.7"/>
+  </g>
+  <!-- Banner -->
+  <g>
+    <path d="M22,124 L98,124 L92,134 L98,144 L22,144 L28,134 Z" fill="url(#gold)"/>
+    <text x="60" y="137.5" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="9" letter-spacing="1.5" font-weight="700" fill="#1b2230">EST. 1842</text>
+  </g>
+</svg>

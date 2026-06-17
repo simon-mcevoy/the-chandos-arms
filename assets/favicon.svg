@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="The Chandos Arms">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ddac4a"/>
+      <stop offset="1" stop-color="#a8761a"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="#1b2230"/>
+  <g fill="none" stroke="url(#g)" stroke-width="2.4" stroke-linejoin="round">
+    <path d="M14,12 H50 V36 C50,52 39,60 32,63 C25,60 14,52 14,36 Z" transform="translate(0,-4) scale(0.92) translate(2.5,4)"/>
+  </g>
+  <path d="M20,32 L32,22 L44,32 L44,37 L32,27 L20,37 Z" fill="url(#g)"/>
+  <text x="32" y="50" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700" fill="url(#g)">C</text>
+</svg>
