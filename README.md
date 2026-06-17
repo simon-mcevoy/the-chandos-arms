@@ -52,10 +52,18 @@ Good photos to capture: the bar interior, a plated Sunday roast, food close-ups,
 
 ## Photos currently in use
 
-| Image | Source | Note |
+All photos are the pub's own, taken from its Facebook page.
+
+| Image | Used on | Note |
 | --- | --- | --- |
-| `exterior-hero.jpg` | The pub's saved Facebook page | ⚠️ Carries an **"EDK Photography"** watermark — see go-live checklist. |
-| `marquee-sport.jpg`, `marquee-flags.jpg`, `garden-benches.jpg` | The pub's own Facebook posts | Used on What's On / Home. |
+| `exterior-hero.jpg` | Home hero, Our Story | ⚠️ Carries an **"EDK Photography"** watermark — see go-live checklist. |
+| `marquee-sport.jpg`, `marquee-flags.jpg` | What's On | Heated marquee. |
+| `garden-benches.jpg` | Home | Covered garden seating. |
+| `sunday-roast.jpg` | Home | Plated Sunday roast. |
+| `interior-fireside.jpg` | Food & Drink | Cosy interior by the fire. |
+| `yorkshire-puddings.jpg` | Food & Drink | Yorkshire puddings close-up. |
+
+> The food/interior shots are ~414px square (Facebook-sized), so they're kept in modest frames. Higher-resolution originals from the pub would look crisper — drop them in over the same filenames.
 
 ## ✅ Before you go live
 
@@ -66,7 +74,7 @@ A few things are best confirmed by the pub before publishing — they were uncer
 - [ ] **Menu &amp; prices** — verified items: the Monday £10 specials, the pizzas and the Sunday roast. Other dishes are a representative sample; confirm the current menu and add prices if wanted.
 - [ ] **Events** — confirm the quiz night day/time and any regular live-music schedule.
 - [ ] **Image rights** — the exterior hero shot is watermarked "EDK Photography". Get permission/a licensed copy, or replace it with your own photo of the pub.
-- [ ] **Add real photos** into the labelled slots (roast, bar, drinks).
+- [ ] **Higher-res photos** (optional) — the food/interior shots are Facebook-sized (~414px); swap in larger originals over the same filenames for extra sharpness.
 - [ ] **Map marker** — the OpenStreetMap marker on Find Us is approximate; nudge the `marker=` / `bbox=` values in `find-us.html` if you want it spot-on.
 
 ## Hosting (free options)
