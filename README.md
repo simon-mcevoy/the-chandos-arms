@@ -59,7 +59,6 @@ All photos are the pub's own, taken from its Facebook page.
 | `exterior-hero.jpg` | Home hero, Our Story | ⚠️ Carries an **"EDK Photography"** watermark — see go-live checklist. |
 | `marquee-sport.jpg`, `marquee-flags.jpg` | What's On | Heated marquee. |
 | `garden-benches.jpg` | Home | Covered garden seating. |
-| `sunday-roast.jpg` | Home | Plated Sunday roast. |
 | `interior-fireside.jpg` | Food & Drink | Cosy interior by the fire. |
 | `yorkshire-puddings.jpg` | Food & Drink | Yorkshire puddings close-up. |
 
@@ -69,6 +68,7 @@ All photos are the pub's own, taken from its Facebook page.
 
 A few things are best confirmed by the pub before publishing — they were uncertain or varied between online sources:
 
+- [ ] **Plated Sunday roast photo** — the Home page "Proper pub food" section has a placeholder waiting for a photo of a roast served on a plate. Save it as `images/sunday-roast.jpg` and swap the `.slot` div for an `<img>` (see "Adding real photos" above).
 - [ ] **Opening &amp; kitchen hours** — the times shown are a reasonable guide; confirm the real bar and food-service hours.
 - [ ] **Email address** — `info@thechandosarms.co.uk` is a placeholder. Set the real address (search/replace `info@thechandosarms.co.uk`).
 - [ ] **Menu &amp; prices** — verified items: the Monday £10 specials, the pizzas and the Sunday roast. Other dishes are a representative sample; confirm the current menu and add prices if wanted.
