@@ -56,8 +56,11 @@ All photos are the pub's own, taken from its Facebook page.
 
 | Image | Used on | Note |
 | --- | --- | --- |
+| `logo-arms.png` | Header (all pages) + Our Story hero | Pub coat of arms / wordmark, grey background removed to transparent (from `arms.JPG`). |
 | `exterior-hero.jpg` | Home hero, Our Story | ⚠️ Carries an **"EDK Photography"** watermark — see go-live checklist. |
-| `marquee-sport.jpg`, `marquee-flags.jpg` | What's On | Heated marquee. |
+| `burger.jpg` | Home (food) | Beef & bacon burger. |
+| `events-group.jpg` | What's On (community feature) | Charity ride-out gathering. |
+| `marquee-flags.jpg` | What's On | Heated marquee. |
 | `garden-benches.jpg` | Home | Covered garden seating. |
 | `interior-fireside.jpg` | Food & Drink | Cosy interior by the fire. |
 | `yorkshire-puddings.jpg` | Food & Drink | Yorkshire puddings close-up. |

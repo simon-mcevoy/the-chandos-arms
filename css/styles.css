@@ -163,8 +163,9 @@ p { max-width: 68ch; }
   display: flex; align-items: center; justify-content: space-between; gap: 1rem;
   min-height: var(--header-h);
 }
+.hero-crest { display: block; width: min(240px, 62%); height: auto; margin: 0 auto 1.6rem; }
 .brand { display: flex; align-items: center; gap: 0.7rem; text-decoration: none; }
-.brand img { height: 44px; width: auto; filter: drop-shadow(0 1px 2px rgba(0,0,0,0.4)); }
+.brand img { height: 62px; width: auto; filter: drop-shadow(0 1px 2px rgba(0,0,0,0.4)); }
 .brand-text { display: flex; flex-direction: column; line-height: 1; }
 .brand-text .name {
   font-family: var(--font-display); font-weight: 700; color: var(--cream);
@@ -208,6 +209,7 @@ p { max-width: 68ch; }
 
 @media (max-width: 860px) {
   .nav-toggle { display: inline-flex; }
+  .brand img { height: 50px; }
   .nav-menu {
     position: fixed; inset: var(--header-h) 0 auto 0;
     background: var(--navy-deep);
